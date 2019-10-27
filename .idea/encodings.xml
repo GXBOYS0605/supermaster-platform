@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-common/supermaster-platform-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supermaster-platform-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

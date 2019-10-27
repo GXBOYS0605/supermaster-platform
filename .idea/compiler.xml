@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supermaster-platform-config" />
+        <module name="supermaster-platform-security" />
+        <module name="supermaster-platform-common" />
+        <module name="supermaster-platform-email" />
+        <module name="supermaster-platform-eureka" />
+        <module name="supermaster-platform-zuul" />
+        <module name="supermaster-platform-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="supermaster-platform" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="supermaster-platform-common" options="-parameters" />
+      <module name="supermaster-platform-config" options="-parameters" />
+      <module name="supermaster-platform-email" options="-parameters" />
+      <module name="supermaster-platform-eureka" options="-parameters" />
+      <module name="supermaster-platform-security" options="-parameters" />
+      <module name="supermaster-platform-web" options="-parameters" />
+      <module name="supermaster-platform-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
