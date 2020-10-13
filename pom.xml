@@ -28,7 +28,7 @@
         <!--<spring-cloud.version>Hoxton.BUILD-SNAPSHOT</spring-cloud.version>-->
         <spring-cloud.version>Finchley.RC2</spring-cloud.version>
         <mysql.version>6.0.6</mysql.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <!-- 设置依赖 -->
